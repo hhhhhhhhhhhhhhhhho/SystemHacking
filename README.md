@@ -2,7 +2,7 @@ SystemHacking
 =============
 
 
-SystemHacking 중 사용하는 Shell Code 와 Vulneralbe 들 입니다.
+SystemHacking 중 사용하는 Shell Code 와 Vulnerable Code 입니다.
 -------------
 
 
