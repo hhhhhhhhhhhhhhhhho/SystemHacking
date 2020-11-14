@@ -13,6 +13,9 @@ rrrr
 > Environment : Kali Linux GUI
 >> ROP ( Return Oriented Programming )
 
+> Envirnoment : Ubuntu Linux 64bit GUI
+>> Fuzzing ( AFL ) 
+
 
 #2. Window System Hacking ( 저자 김현민 님 )
 > Environment : Windows7 64bit or 32bit
